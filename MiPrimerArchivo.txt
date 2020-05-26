@@ -2,4 +2,4 @@ Este es mi primer archivo que voy a subir a GitHub.
 Prueba de colision.
 Agrego informacion importante. 
 
-Otra linea mas.
+Otra linea.
